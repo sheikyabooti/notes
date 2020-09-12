@@ -1,5 +1,5 @@
 
-#How To Set Up PlantUML for Visual Studio Code
+# How To Set Up PlantUML for Visual Studio Code
 
 This guide assumes you have Visual Studio Code already installed.
 
