@@ -1,0 +1,12 @@
+@startuml
+
+Actor Player
+Actor Client
+Actor Server
+
+
+Player -> Client : Go
+Client -> Server : Ping!
+Server -> Client : Pong!
+
+@enduml
