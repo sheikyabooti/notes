@@ -45,10 +45,13 @@ LGA 1200 is a microprocessor and chipset, manufactured by Intel.  It is compatib
 
 chipsets
 There are a number of chipsets that are compatible with LGA 1200.
+https://en.wikipedia.org/wiki/LGA_1200
 
-https://www.xtremegaminerd.com/best-lga-1200-motherboards/
+roughly from least peforming to best performing
+H110 < B460 < H470 < Q470 < W480 < Z490 
 
-
+Intel Z90 chipset $50
+https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html
 https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/z490-chipset-brief.pdf
 
 Motherboards vary widely in terms of features.  
@@ -62,7 +65,7 @@ Things to look for on a motherboard
 WiFi 802.11ax
 Bluetooth
 USB-C connection
-2 m.2 connectors - these are used for the SSD
+2 m.2 connectors - these are used for the Storage
 
 Questions to ask
 Are there any special connection types I need?  Firewire?
