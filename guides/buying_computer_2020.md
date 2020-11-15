@@ -3,6 +3,8 @@
 
 CPU Architecture/Family
 ------------------------
+Recommendation: Intel i7 or i9.
+
 The two main vendors of desktop processors (x86_64) are Intel and AMD.  For the sake of simplicity, we will only look at Intel processors.
 
 Intel splits their lineup into market segments, which helps guide CPU selection.  For desktops, from least performant to most
@@ -13,13 +15,12 @@ Celeron, i3, and i5 are all used in cost conscious designs, and typically have e
 
 Selecting your CPU also locks in your chipset and architecture.  Other than the chipset, the main caveat in selecting an i7/i9 is making sure you are looking at current generation architecture.  Intel releases products on a "tick-tock" cadence, which usually means there are two generations of mainline processors available at a given time.  Currently these are Comet Lake and Cascade Lake.
 
-https://en.wikipedia.org/wiki/Comet_Lake_(microarchitecture)
-https://en.wikipedia.org/wiki/Cascade_Lake_(microarchitecture)
-
 Both of these processors use the LGA 1200 chipset.  This will guide the choice of motherboard, memory, and storage
 
 CPU Processor Selection
 ------------------------
+Recommendation: Intel i7 10700 or i9 10900.  base, K, KF, KA 
+
 after narrowing the choice to i7/i9, we are confronted with the strange naming convention of Intel microprocessors.
 
 
@@ -29,7 +30,6 @@ i7-10700, i7-10700F, i7-10700K, i7-10700KA,i7-10700KF
 i9-10850K, i9-10850KA
 i9-10900, i9-10900F, i9-10900K, i9-10900KA, i9-10900KF    
 
-https://techedged.com/intel-k-vs-kf-vs-fn=
 no letters: Frequency locked, integrated GPU enabled
 F           Frequency locked, integrated GPU disabled
 K           Frequency unlocked, integrated GPU enabled
@@ -41,18 +41,16 @@ for now, I will be looking at K and potentially KF or KA processors
 
 Motherboard
 -------------------------
+Recommendation: Z490 motherboard
+
 LGA 1200 is a microprocessor and chipset, manufactured by Intel.  It is compatible with the Comet Lake and Cascade Lake architecture.  
 
 chipsets
 There are a number of chipsets that are compatible with LGA 1200.
-https://en.wikipedia.org/wiki/LGA_1200
 
 roughly from least peforming to best performing
 H110 < B460 < H470 < Q470 < W480 < Z490 
 
-Intel Z90 chipset $50
-https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html
-https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/z490-chipset-brief.pdf
 
 Motherboards vary widely in terms of features.  
 Things to expect to find on a motherboard
@@ -75,30 +73,51 @@ This is a filter for LGA 1200 motherboards with 2 m.2 connectors and built in 80
 
 Memory
 ---------------------------
+Recommendation: 32 or 64 GB or 2900MHz DDR4 DRAM, in a set of 4 matched pairs.
 
+The LGA 1200 supports DDR memory up to 2933 MHz.
 non-overclocked memory
 2933 MHz
 
-What is JEDEC?
-https://en.wikipedia.org/wiki/JEDEC_memory_standards
+How much memory is enough?
+I would not recommend anyone put less than 16GB into their computers.  I would recommend either 32GB or 64GB if you are feeling like splurging.
 
-Do I want to overclock?
-
-What is Intel Optane?
+Do I want ECC Memory?
+ECC memory is memory that has an extra bit for error correction.  These are mostly used for certain mission critical server applications, and are totallly unnecessary for home use.  The infrastructure that supports ECC tends to be more expenstive, and there are no real tangible benefits, the error rates being very low for convetional DDR RAM.
 
 Storage
 ---------------------------
+1 or 2 TB of m.2 2280 
 
 IDE -> SCSI -> SATA -> NVMe
 
-How does Intel Optane compare against NVMe?
+One thing to be aware is that SATA, and NVMe are protocols, and m.2 is a form factor.  When I bought my last computer, I accidentally bought m.2 SSD SATA drives instead of m.2 SSD NVMe drives.  They look the same, and both would work in my computer, but NVMe is significantly faster than SATA.
 
+How does Intel Optane compare against other NVMe drives?
+Intel Optane is a brand of NVMe drives, they are faster, but muc more expensive
 
 Video Card
 ---------------------------
+Recommendation: RTX 2060, or GTX 1660 if you are not doing video intenstive tasks or video games
+
+The two main players in video cards are AMD and Nvidia.  At this point, Nvidia seems to be pretty far in the lead in terms of performance, so we're going to look at those cards.
+
+RTX 3070, 3080, 3090: The newest video cards, released in August of 2020 to great fanfare and very low stock and have been sold out for months.
+RTX 2060, 2070, 2080: The previous generation cards,
+GTX 1650, 1660      : This represents the low cost, mid range peformance market.
+
+SLI?  What is SLI?  This means using two video cards in one computer, each doing roughly half of the work.  This is really only suitable for people with more money than sense, or for certain very high performance realtime applications.
 
 Case
 ---------------------------
 
+The main criteria of a case
+1. Mid sized ATX computer
+2. At least one USB-c port
+3. At least 2 USb ports in the front
+3. space for an optical disk drive (ODD)
+4. support for a Liquid cooling system
+
 Cooling
 ---------------------------
+Recommendation: an All-in-one cooling system
