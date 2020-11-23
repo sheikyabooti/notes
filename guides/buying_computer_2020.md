@@ -135,9 +135,8 @@ The main criteria of a case
 
 Power Supply
 ---------------------------
-**Recommendation: 750W Gold Certified 80+ PSU, either fully or semi-modular**
-
-
+**Recommendation: 750W Titanium Certified 80+ PSU, either fully or semi-modular**
+https://www.newegg.com/enermax-maxtytan-emt750ewt-750w/p/N82E16817194134?Item=N82E16817194134
 
 Cooling
 ---------------------------
