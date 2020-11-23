@@ -24,7 +24,7 @@ CPU Processor Selection
 https://www.newegg.com/intel-core-i7-10700k-core-i7-10th-gen/p/N82E16819118183
 
 https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118176
-
+$475
 
 after narrowing the choice to i7/i9, we are confronted with the strange naming convention of Intel microprocessors.
 
@@ -48,11 +48,8 @@ Motherboard
 -------------------------
 **Recommendation: Z490 motherboard**
 
-https://www.newegg.com/msi-z490-a-pro/p/N82E16813144346?Item=N82E16813144346
-
-https://www.newegg.com/p/N82E16813119307?Item=9SIAN0MBXA3551
-
 https://www.newegg.com/p/N82E16813145193?Item=N82E16813145193
+$190
 
 LGA 1200 is a microprocessor and chipset, manufactured by Intel.  It is compatible with the Comet Lake and Cascade Lake architecture.  
 
@@ -86,6 +83,9 @@ Memory
 ---------------------------
 **Recommendation: 32 or 64 GB or 2900MHz DDR4 DRAM, in a set of 4 matched pairs.**
 
+https://www.newegg.com/g-skill-64gb-288-pin-ddr4-sdram/p/N82E16820232092?Item=N82E16820232092
+$220
+
 The LGA 1200 supports DDR memory up to 2933 MHz.
 non-overclocked memory
 2933 MHz
@@ -101,8 +101,10 @@ Storage
 **Recommendation:1 or 2 TB of m.2 2280**
 
 https://www.newegg.com/samsung-970-evo-plus-2tb/p/N82E16820147744
+$249
 
 https://www.newegg.com/samsung-970-evo-plus-1tb/p/N82E16820147743
+$149
 
 IDE -> SCSI -> SATA -> NVMe
 
@@ -114,6 +116,9 @@ Intel Optane is a brand of NVMe drives, they are faster, but muc more expensive
 Video Card
 ---------------------------
 **Recommendation: RTX 2060, or GTX 1660 if you are not doing video intenstive tasks or video games**
+
+https://www.newegg.com/asus-geforce-rtx-2060-dual-rtx2060-o6g-evo/p/N82E16814126349?Item=N82E16814126349
+$330
 
 The two main players in video cards are AMD and Nvidia.  At this point, Nvidia seems to be pretty far in the lead in terms of performance, so we're going to look at those cards.
 
@@ -142,7 +147,14 @@ Power Supply
 ---------------------------
 **Recommendation: 750W Titanium Certified 80+ PSU, either fully or semi-modular**
 https://www.newegg.com/enermax-maxtytan-emt750ewt-750w/p/N82E16817194134?Item=N82E16817194134
+$289
+
+https://www.newegg.com/thermaltake-toughpower-gf1-tt-premium-edition-ps-tpd-0850fnfaga-1-850w/p/N82E16817153403
+$130
 
 Cooling
 ---------------------------
 **Recommendation: All-in-one liquid cooling system**
+
+https://www.newegg.com/cooler-master-masterliquid-ml240l-rgb-liquid-cooling-system/p/2YM-0004-00015?Item=2YM-0004-00015
+$75
