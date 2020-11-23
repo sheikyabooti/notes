@@ -3,7 +3,7 @@
 
 CPU Architecture/Family
 ------------------------
-Recommendation: Intel i7 or i9.
+**Recommendation: Intel i7 or i9.**
 
 The two main vendors of desktop processors (x86_64) are Intel and AMD.  For the sake of simplicity, we will only look at Intel processors.
 
@@ -19,7 +19,11 @@ Both of these processors use the LGA 1200 chipset.  This will guide the choice o
 
 CPU Processor Selection
 ------------------------
-Recommendation: Intel i7 10700 or i9 10900.  base, K, KF, KA 
+**Recommendation: Intel i7 10700 or i9 10900.  base, K, KF, KA**
+
+https://www.newegg.com/intel-core-i7-10700k-core-i7-10th-gen/p/N82E16819118183
+https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118176
+
 
 after narrowing the choice to i7/i9, we are confronted with the strange naming convention of Intel microprocessors.
 
@@ -41,7 +45,11 @@ for now, I will be looking at K and potentially KF or KA processors
 
 Motherboard
 -------------------------
-Recommendation: Z490 motherboard
+**Recommendation: Z490 motherboard**
+
+https://www.newegg.com/msi-z490-a-pro/p/N82E16813144346?Item=N82E16813144346
+https://www.newegg.com/p/N82E16813119307?Item=9SIAN0MBXA3551
+https://www.newegg.com/p/N82E16813145193?Item=N82E16813145193
 
 LGA 1200 is a microprocessor and chipset, manufactured by Intel.  It is compatible with the Comet Lake and Cascade Lake architecture.  
 
@@ -73,7 +81,7 @@ This is a filter for LGA 1200 motherboards with 2 m.2 connectors and built in 80
 
 Memory
 ---------------------------
-Recommendation: 32 or 64 GB or 2900MHz DDR4 DRAM, in a set of 4 matched pairs.
+**Recommendation: 32 or 64 GB or 2900MHz DDR4 DRAM, in a set of 4 matched pairs.**
 
 The LGA 1200 supports DDR memory up to 2933 MHz.
 non-overclocked memory
@@ -87,7 +95,9 @@ ECC memory is memory that has an extra bit for error correction.  These are most
 
 Storage
 ---------------------------
-1 or 2 TB of m.2 2280 
+**Recommendation:1 or 2 TB of m.2 2280**
+https://www.newegg.com/samsung-970-evo-plus-2tb/p/N82E16820147744
+https://www.newegg.com/samsung-970-evo-plus-1tb/p/N82E16820147743
 
 IDE -> SCSI -> SATA -> NVMe
 
@@ -98,7 +108,7 @@ Intel Optane is a brand of NVMe drives, they are faster, but muc more expensive
 
 Video Card
 ---------------------------
-Recommendation: RTX 2060, or GTX 1660 if you are not doing video intenstive tasks or video games
+**Recommendation: RTX 2060, or GTX 1660 if you are not doing video intenstive tasks or video games**
 
 The two main players in video cards are AMD and Nvidia.  At this point, Nvidia seems to be pretty far in the lead in terms of performance, so we're going to look at those cards.
 
@@ -111,6 +121,9 @@ SLI?  What is SLI?  This means using two video cards in one computer, each doing
 Case
 ---------------------------
 
+Here is a link to all of the ATX caes that support 2 5.25" disk drives and have a side-window
+https://www.newegg.com/p/pl?N=100007583%20600030551%20600006505
+
 The main criteria of a case
 1. Mid sized ATX computer
 2. At least one USB-c port
@@ -118,6 +131,14 @@ The main criteria of a case
 3. space for an optical disk drive (ODD)
 4. support for a Liquid cooling system
 
+
+
+Power Supply
+---------------------------
+**Recommendation: 750W Gold Certified 80+ PSU, either fully or semi-modular**
+
+
+
 Cooling
 ---------------------------
-Recommendation: an All-in-one cooling system
+**Recommendation: All-in-one liquid cooling system**
