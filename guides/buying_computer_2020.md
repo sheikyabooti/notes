@@ -22,6 +22,7 @@ CPU Processor Selection
 **Recommendation: Intel i7 10700 or i9 10900.  base, K, KF, KA**
 
 https://www.newegg.com/intel-core-i7-10700k-core-i7-10th-gen/p/N82E16819118183
+
 https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118176
 
 
@@ -48,7 +49,9 @@ Motherboard
 **Recommendation: Z490 motherboard**
 
 https://www.newegg.com/msi-z490-a-pro/p/N82E16813144346?Item=N82E16813144346
+
 https://www.newegg.com/p/N82E16813119307?Item=9SIAN0MBXA3551
+
 https://www.newegg.com/p/N82E16813145193?Item=N82E16813145193
 
 LGA 1200 is a microprocessor and chipset, manufactured by Intel.  It is compatible with the Comet Lake and Cascade Lake architecture.  
@@ -96,7 +99,9 @@ ECC memory is memory that has an extra bit for error correction.  These are most
 Storage
 ---------------------------
 **Recommendation:1 or 2 TB of m.2 2280**
+
 https://www.newegg.com/samsung-970-evo-plus-2tb/p/N82E16820147744
+
 https://www.newegg.com/samsung-970-evo-plus-1tb/p/N82E16820147743
 
 IDE -> SCSI -> SATA -> NVMe
