@@ -9,11 +9,11 @@ The two main vendors of desktop processors (x86_64) are Intel and AMD.  For the 
 
 Intel splits their lineup into market segments, which helps guide CPU selection.  For desktops, from least performant to most
 
-Celeron < i3 < i5 < i7 < i9 < Xeon  
+Pentium, Celeron < i3 < i5 < i7 < i9 < Xeon  
 
-Celeron, i3, and i5 are all used in cost conscious designs, and typically have either lower clockspeed, lower cache memory, or lower memory bandwidth than i7 or i9.  Xeon is typically marketed at server applications, and tends to have very large cache memory and/or high cpu clock, along with correspondingly high price tags.  In searching for a desktop, I will focus on i7 and i9, having good cost/performance.
+Pentium, Celeron, i3 are all used in cost conscious designs, and typically have either lower clockspeed, lower cache memory, or lower memory bandwidth than i5, i7 or i9.  Xeon is typically marketed at server applications, and tends to have very large cache memory and/or high cpu clock, along with correspondingly high price tags.  In searching for a desktop, I will focus on i5, i7, and i9, having good cost/performance.
 
-Selecting your CPU also locks in your chipset and architecture.  Other than the chipset, the main caveat in selecting an i7/i9 is making sure you are looking at current generation architecture.  Intel releases products on a "tick-tock" cadence, which usually means there are two generations of mainline processors available at a given time.  Currently these are Comet Lake and Cascade Lake.
+Selecting your CPU also locks in your chipset and architecture.  Other than the chipset, the main caveat in selecting an i5/i7/i9 is making sure you are looking at current generation architecture.  Intel releases products on a "tick-tock" cadence, which usually means there are two generations of mainline processors available at a given time.  Currently these are Comet Lake and Cascade Lake.
 
 Both of these processors use the LGA 1200 chipset.  This will guide the choice of motherboard, memory, and storage
 
@@ -21,16 +21,21 @@ CPU Processor Selection
 ------------------------
 **Recommendation: Intel i7 10700 or i9 10900.  base, K, KF, KA**
 
+https://www.newegg.com/intel-core-i5-10600k-core-i5-10th-gen/p/N82E16819118184
+$287
+
 https://www.newegg.com/intel-core-i7-10700k-core-i7-10th-gen/p/N82E16819118183
+$380
 
 https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118176
 $475
 
-after narrowing the choice to i7/i9, we are confronted with the strange naming convention of Intel microprocessors.
+after narrowing the choice to i5/i7/i9, we are confronted with the strange naming convention of Intel microprocessors.
 
 
 https://www.newegg.com/p/pl?N=100007671%20601351801%20601295136%20601300154&Order=1
 
+i5-10400, i5-10400F, i5-10600K i5-10600KA
 i7-10700, i7-10700F, i7-10700K, i7-10700KA,i7-10700KF
 i9-10850K, i9-10850KA
 i9-10900, i9-10900F, i9-10900K, i9-10900KA, i9-10900KF    
@@ -71,7 +76,7 @@ Things to look for on a motherboard
 WiFi 802.11ax
 Bluetooth
 USB-C connection
-2 m.2 connectors - these are used for the Storage
+1-`2 m.2 connectors - these are used for the Storage
 
 Questions to ask
 Are there any special connection types I need?  Firewire?
@@ -117,8 +122,16 @@ Video Card
 ---------------------------
 **Recommendation: RTX 2060, or GTX 1660 if you are not doing video intenstive tasks or video games**
 
-https://www.newegg.com/asus-geforce-rtx-2060-dual-rtx2060-o6g-evo/p/N82E16814126349?Item=N82E16814126349
+RTX 2060
+https://www.newegg.com/asus-geforce-rtx-2060-dual-rtx2060-o6g-evo/p/N82E16814126349
 $330
+
+GTX 1660
+https://www.newegg.com/gigabyte-geforce-gtx-1660-gv-n1660oc-6gd/p/N82E16814932138
+$230
+
+https://www.newegg.com/gigabyte-geforce-gtx-1650-gv-n1656oc-4gd-rev-2-0/p/N82E16814932309
+$160
 
 The two main players in video cards are AMD and Nvidia.  At this point, Nvidia seems to be pretty far in the lead in terms of performance, so we're going to look at those cards.
 
