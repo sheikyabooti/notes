@@ -1,8 +1,8 @@
 
 Parts purchased for Courtney 2021-01-14
 
-Intel core i19 10850k
-https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118175
+-- Intel core i19 10850k
+-- https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118175
 
 GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490
 https://www.newegg.com/p/N82E16813145194
